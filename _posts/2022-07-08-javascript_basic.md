@@ -74,3 +74,6 @@ tag:
     num1 %= num2 // num1 = num1 / num2 => 30 * 3 = 10 ... 0 나머지 0
     document.write(num1,"<br>"); // 0이 출력된다. num1 /= num2 였다면, 10이 출력됐을 것이다.
 ```
+<h3>증감연산자</h3>  
+  
+<span style="color:gold;">기본형 | var 변수명; 또는 var 변수명 = 값;<sapn>
