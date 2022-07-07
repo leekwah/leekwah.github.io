@@ -1,5 +1,5 @@
 ---
-title: 자바스크립트 기본
+title: Javascript Basic
 comments: null
 read_time: true
 layout: tags
