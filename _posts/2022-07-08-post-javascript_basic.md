@@ -6,8 +6,7 @@ read_time: true
 layout: tags
 author_profile: true
 tag: 
-- JavaScript
-- THU
+- [JavaScript, THU]
 ---
 <h3>변수</h3>
 
