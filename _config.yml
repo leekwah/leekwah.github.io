@@ -19,14 +19,14 @@ locale                   : "ko-KR"
 title                    : "leekwah"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이광훈"
-description              : "HTML CSS3 JAVASCRIPT JQUERY JAVA JSP SPRINGFRAMWORK ORACLE ETC"
+name                     : "leekwah"
+description              : "blog github with study"
 url                      : "https://leekwah.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "leekwah/leekwah.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : 크와 아카이브
+masthead_title           : My Archaive
 breadcrumbs              : true #false (default)
 words_per_minute         : 200
 
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "leekwah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "문제를 해결하는 힘은 새로운 정보를 얻는데서 오는 것이 아니라, <br>이미 오래전부터 알고 있던 것을 체계적으로 정리하는데서 온다. <br> - 비트겐슈타인-"
+  bio              : "DEVELOPING <br> (자기)개발 중G"
   location         : "Republic of Korea"
   email            : "lkwnghn@gmail.com"
   links:
@@ -219,7 +219,7 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 15 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
