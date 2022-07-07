@@ -105,7 +105,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "이광훈"
+  name             : "leekwah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "문제를 해결하는 힘은 새로운 정보를 얻는데서 오는 것이 아니라, <br>이미 오래전부터 알고 있던 것을 체계적으로 정리하는데서 온다. <br> - 비트겐슈타인-"
   location         : "Republic of Korea"
@@ -113,7 +113,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:lkwnghn@gmail.com"
+      #url: "mailto:lkwnghn@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
