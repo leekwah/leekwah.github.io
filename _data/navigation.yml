@@ -1,7 +1,13 @@
 main:
-  - title: Categories
-    url: /categories/
+#   - title: "About" # 네비게이션 바에 표시 되는 이름
+#     url: "/about/" # 클릭시 이동할 URL
+  - title: Post
+    url: /post-archive/
   - title: Tags
-    url: /tags/
+    url: /tag-archive/
   - title: Archive
-    url: /archive/
+    url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap
