@@ -19,7 +19,7 @@ locale                   : "ko-KR"
 title                    : "leekwah"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "이광훈"
+name                     : "leekwah"
 description              : "HTML CSS3 JAVASCRIPT JQUERY JAVA JSP SPRINGFRAMWORK ORACLE ETC"
 url                      : "https://leekwah.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
