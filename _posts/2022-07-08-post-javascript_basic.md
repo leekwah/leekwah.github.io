@@ -1,7 +1,7 @@
 ---
 title: Javascript Basic
 categories:
-  - Post Formats
+  - Develop
 tags:
   - JavaScript
   - 연산자

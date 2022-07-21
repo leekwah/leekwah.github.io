@@ -1,7 +1,7 @@
 ---
 title: 클래스
 categories:
-  - Post Formats
+  - Develop
 tags:
   - Java
   - 클래스
