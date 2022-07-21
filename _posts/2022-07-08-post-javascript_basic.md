@@ -1,12 +1,10 @@
 ---
-published: true
 title: Javascript Basic
-comments: null
-read_time: true
-layout: tags
-author_profile: true
-tag: 
-- [JavaScript, THU]
+categories:
+  - Post Formats
+tags:
+  - JavaScript
+  - 연산자
 ---
 <h3>변수</h3>
 

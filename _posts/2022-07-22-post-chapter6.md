@@ -1,10 +1,10 @@
 ---
-published: true
-title: chapter6
-comments: null
-read_time: true
-layout: tags
-author_profile: true
+title: 클래스
+categories:
+  - Post Formats
+tags:
+  - Java
+  - 클래스
 ---
 ## 클래스의 정의 - 1 설계도
 
