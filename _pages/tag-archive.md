@@ -1,6 +1,6 @@
 ---
 title: "Tags"
-permalink: /tag-archive/
+permalink: /tags/
 layout: tags
 author_profile: true
 ---
