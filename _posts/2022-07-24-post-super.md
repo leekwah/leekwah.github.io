@@ -2,7 +2,6 @@
 title: super
 categories:
   - Develop
-	- Java
 tags:
   - Java
   - 상속
