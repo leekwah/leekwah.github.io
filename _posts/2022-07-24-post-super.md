@@ -177,4 +177,4 @@ class Point3D extends Point {
 }
 ```
 
-<img src="images/20220724_super_images.png"/>
+<img src="images/20220724_super1.png"/>
