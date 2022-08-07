@@ -5,6 +5,7 @@ categories:
 tags:
   - Java
   - 상속
+  - OOP
   - Chapter7
 ---
 # 단일상속(Single Inheritance)

@@ -5,6 +5,7 @@ categories:
 tags:
   - Java
   - 상속
+  - OOP
   - Chapter7
 ---
 # 참조변수 super
