@@ -26,7 +26,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "leekwah/leekwah.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
-masthead_title           : Kwah's Archaive
+masthead_title           : 크와 개발블로그
 breadcrumbs              : true #false (default)
 words_per_minute         : 200
 
@@ -107,7 +107,7 @@ analytics:
 author:
   name             : "leekwah"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "DEVELOPING <br> (자기)개발 중G"
+  bio              : "개발 중"
   location         : "Republic of Korea"
   email            : "lkwnghn@gmail.com"
   links:
