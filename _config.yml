@@ -285,11 +285,12 @@ defaults:
       path: ""
       type: posts
     values:
-      layout: single
+      layout: single # 레이아웃 single
       author_profile: true
-      read_time: true
-      comments: true
-      share: true
+      read_time: false # 읽는데 걸리는 소요시간 표시 X
+      show_date: true # 포스팅 날짜 표시 O
+      comments: false # 댓글 X
+      share: true # 공유 O
       related: true
 
 jekyll_admin:
