@@ -1,5 +1,5 @@
 ---
-title: spring_boot_library
+title: SpringBoot Library
 categories:
   - Develop
 tags:
