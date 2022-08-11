@@ -4,7 +4,7 @@ categories:
   - Develop
 tags:
   - Java
-  - 클래스
+  - 자바의 정석 기초편
 ---
 ## 클래스의 정의 - 1 설계도
 

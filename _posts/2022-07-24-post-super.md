@@ -4,9 +4,8 @@ categories:
   - Develop
 tags:
   - Java
-  - 상속
   - OOP
-  - Chapter7
+  - 자바의 정석 기초편
 ---
 # 참조변수 super
 

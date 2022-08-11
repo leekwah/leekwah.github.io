@@ -4,7 +4,6 @@ categories:
   - Develop
 tags:
   - JavaScript
-  - 연산자
 ---
 <h3>변수</h3>
 

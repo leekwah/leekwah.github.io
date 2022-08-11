@@ -5,7 +5,7 @@ categories:
 tags:
   - Java
   - OOP
-  - Chapter7
+  - 자바의 정석 기초편
 ---
 # import문
 
