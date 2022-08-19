@@ -1,3 +1,11 @@
+---
+title: join()과 StringJoiner
+categories:
+  - Develop
+tags:
+  - Java
+  - 자바의 정석 기초편
+---
 # join()과 StringJoiner
 
 join()은 (static메서드)  여러 문자열 사이에 구분자를 넣어서 결합한다.
